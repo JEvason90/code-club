@@ -5,6 +5,7 @@ function myAlert(){
 }
 
 function changeColour(){
+    document.body.style.backgroundImage = 'none'
     document.body.style.backgroundColor = 'purple'
 }
 
