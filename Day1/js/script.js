@@ -16,10 +16,11 @@ function clearColour(){
 function createArray(){
     var myArray =['car', 'bike', 'bus', 'tractor'];
 
-    myArray.forEach(p)
-    {
-        console.log(p);
-    } 
+    myArray.forEach(
+        function(item, index) {
+            console.log(item, index)
+        }
+    );
 
     //how can we map my array to a list on the web page
 }
