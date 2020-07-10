@@ -12,3 +12,14 @@ function changeColour(){
 function clearColour(){
     document.body.removeAttribute('style');
 }
+
+function createArray(){
+    var myArray =['car', 'bike', 'bus', 'tractor'];
+
+    myArray.forEach(p)
+    {
+        console.log(p);
+    } 
+
+    //how can we map my array to a list on the web page
+}
