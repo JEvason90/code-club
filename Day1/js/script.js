@@ -1,4 +1,5 @@
 var bodyColour = 'red';
+var myArray =['car', 'bike', 'bus', 'tractor']; //global variable
 
 function myAlert(){
     alert('hello world!');
@@ -14,13 +15,19 @@ function clearColour(){
 }
 
 function createArray(){
-    var myArray =['car', 'bike', 'bus', 'tractor'];
 
     myArray.forEach(
-        function(item, index) {
-            console.log(item, index)
+        function(item) {
+            var node = document.createElement("LI");                 // Create a <li> node
+            var textnode = document.createTextNode(item);         // Create a text node
+            node.appendChild(textnode);  
+            document.getElementById("myList").appendChild(node);
         }
     );
+}
 
-    //how can we map my array to a list on the web page
+function removeListItem()
+{
+    myArray.pop();
+    createArray();
 }
