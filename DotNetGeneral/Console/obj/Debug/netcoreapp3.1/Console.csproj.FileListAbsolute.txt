@@ -1,0 +1,13 @@
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sammi Mctigue\Documents\Code\code-club\DotNetGeneral\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
